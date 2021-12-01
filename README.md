@@ -57,11 +57,3 @@ With this, the setup process is finished and you can execute the MNB and the KNN
 
 It is also important to declare that the training dataframe was only arranged in the MNB algorithm file. In KNN, we used the final CSV with all of our necessary data.
 
-### About the project
-
-This project was built for our graduation thesis at the University Graduate Program of Computer Engineering - UniCEUB
-
-This work has been developed and published by:
-
-- [Bruno Gois – @brunovgois](https://github.com/brunovgois)
-- [Matheus Nascimento – @coadordecoffee](https://github.com/coadordecoffee)
