@@ -61,8 +61,6 @@ It is also important to declare that the training dataframe was only arranged in
 
 This project was built for our graduation thesis at the University Graduate Program of Computer Engineering - UniCEUB
 
-The reasearch was labeled "Fake News Detection on Twitter using Artificial Intelligence: a comparison between the Multinomial Naive Bayes and K-Nearest Neighbors Algorithms". 
-
 This work has been developed and published by:
 
 - [Bruno Gois – @brunovgois](https://github.com/brunovgois)
