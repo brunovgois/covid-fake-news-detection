@@ -39,6 +39,5 @@ The reasearch was labeled "Fake News Detection on Twitter using Artificial Intel
 
 This work has been developed and published by:
 
-[Bruno Gois – @brunovgois](https://github.com/brunovgois)
-
-[Matheus Nascimento – @coadordecoffee](https://github.com/coadordecoffee)
+- [Bruno Gois – @brunovgois](https://github.com/brunovgois)
+- [Matheus Nascimento – @coadordecoffee](https://github.com/coadordecoffee)
